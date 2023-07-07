@@ -1,7 +1,7 @@
 # Leaflet Challenge
 
 ## Deployment
-Link: https://imaadUllah.github.io/leaflet-challenge/
+Link: [https://imaadUllah.github.io/leaflet-challenge](https://imaadullah.github.io/leaflet-challenge/)/
 
 ## Part 1: Create the Earthquake Visualization
 
